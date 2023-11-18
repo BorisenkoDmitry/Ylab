@@ -1,0 +1,22 @@
+.ButtonEye {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    padding: 5px;
+    border: none;
+    background-color: #fff;
+    max-width: 50px;
+    width: 100%;
+    outline: 3px solid #f1f1f1;
+    outline-offset: -3px;
+    border-radius: 0px 10px 10px 0;
+    cursor: pointer;
+}
+
+.ButtonEye svg {
+    font-size: 25px;
+}
+.ButtonEye path {
+    fill: #585858;
+}

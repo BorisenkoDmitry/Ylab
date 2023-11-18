@@ -1,0 +1,20 @@
+{
+  "auth": [
+    {
+      "id": 1,
+      "name": "Дмитрий",
+      "surname": "Борисенко",
+      "lastname": "Сергеевич",
+      "mail": "dim-borisenk@yandex.ru",
+      "password": "re92348jvj__DSd9ik032"
+    },
+    {
+      "id": 21,
+      "name": "Евгений",
+      "surname": "Кутюков",
+      "lastname": "Васильевич",
+      "mail": "test@yandex.ru",
+      "password": "3213dsadsadas"
+    }
+  ]
+}
